@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../KURS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Zadania"
+	}
+}
